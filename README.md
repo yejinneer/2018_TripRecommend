@@ -1,7 +1,7 @@
 # 2018_TripRecommend
 
 프로젝트 주제:
-한국에 방문하는 외국인을 대상으로 하는 맞춤 서울 여행코스
+한국에 방문하는 외국인을 대상으로 하는 맞춤 서울 여행코스 /n
 Customized Seoul Travel Course for Foreigners who visit Korea
 
 주제 선정 이유:
